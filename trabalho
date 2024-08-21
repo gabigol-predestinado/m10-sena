@@ -1,32 +1,31 @@
+1- Sistema de arquivos
 Um sistema de arquivos é uma estrutura usada por um sistema operacional para organizar e gerenciar arquivos em um dispositivo de armazenamento, como um disco rígido, unidade de estado sólido (SSD) ou pendrive. Ele define como os dados são armazenados, acessados e organizados no dispositivo de armazenamento. Diferentes sistemas de arquivos têm caraterísticas variáveis e frequentemente são específicos para determinados sistemas operacionais ou dispositivos. Aqui estão alguns dos sistemas de arquivos comuns e seus prós e contras.(kingston.com/br)
 
-
+2- Zero rating
 O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens. O tema tem causado bastante polêmica, principalmente por causa do Internet.org do Facebook e, no Brasil, pelos planos de operadoras.(techtudo.com.br)
 
-
+3- Neutralidade
 A neutralidade da rede é um princípio essencial para garantir a liberdade e a igualdade na internet. Ela assegura que todos tenham as mesmas oportunidades de acessar e compartilhar informações e conteúdos, independentemente de quem são ou do tipo de conteúdo que estão transmitindo. Apesar de existirem algumas exceções, a neutralidade da rede é fundamental para uma internet livre e aberta.(jusbrasil.com.br)
 
-
+4- Banco de dados
 Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS). Juntos, os dados e o DBMS, juntamente com os aplicativos associados a eles, são chamados de sistema de banco de dados, geralmente abreviados para apenas banco de dados.
-
 Os dados nos tipos mais comuns de bancos de dados em operação atualmente são modelados em linhas e colunas em uma série de tabelas para tornar o processamento e a consulta de dados eficientes. Os dados podem ser facilmente acessados, gerenciados, modificados, atualizados, controlados e organizados. A maioria dos bancos de dados usa a linguagem de consulta estruturada (SQL) para escrever e consultar dados.(oracle.com/br)
 
-
+5- Processo de negócios
 Processo de Negócio é o conjunto de atividades ou tarefas que são estruturadas e giram em torno da produção de um resultado de valor para o cliente, por meio da entrega de um serviço ou produto. Ele mostra O QUE deve ser realizado, COMO deve ser realizado e QUEM é o responsável.
-
 Portanto, o Processo de Negócio determina como o trabalho será feito na organização e traz a sequência lógica das atividades.(euax.com.br) 
 
-
+6- Rede neural
 Uma rede neural é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano. É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro humano. A rede neural cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente. As redes neurais artificiais tentam solucionar problemas complicados, como resumir documentos ou reconhecer rostos com grande precisão.(aws.amazon.com)
 
-
+7- Variável
 Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos.(people.com.br)
 
-
+8- Memória
 A memória do computador armazena informações, como dados e programas para uso imediato no computador.[2] O termo memória muitas vezes é sinônimo de armazenamento primário ou memória principal.(pt.wikpedia.org)
 
-
+9- Inteligência artificial
 A inteligência artificial ou IA como também é conhecida, é o campo da ciência que estuda a capacidade que uma máquina possui para reproduzir competências humanas como: raciocínio lógico, aprendizagem, percepção visual, planejamento e a criatividade. A IA, está sendo desenvolvida desde 1950 e até hoje, já teve um grande desenvolvimento.(tray.com.br)
 
-
+10- Algorítimo
 Um algoritmo é uma sequência de instruções bem definidas, normalmente usadas para resolver problemas de matemática específicos, executar tarefas, ou para realizar cálculos e equações. A origem da palavra “algoritmo” remete a Al Khowarizmi, famoso matemático árabe do século IX.(rockcontent.com)
