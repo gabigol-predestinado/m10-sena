@@ -1,3 +1,5 @@
+AULA 1:
+
 1- Sistema de arquivos
 Um sistema de arquivos é uma estrutura usada por um sistema operacional para organizar e gerenciar arquivos em um dispositivo de armazenamento, como um disco rígido, unidade de estado sólido (SSD) ou pendrive. Ele define como os dados são armazenados, acessados e organizados no dispositivo de armazenamento. Diferentes sistemas de arquivos têm caraterísticas variáveis e frequentemente são específicos para determinados sistemas operacionais ou dispositivos. Aqui estão alguns dos sistemas de arquivos comuns e seus prós e contras.(kingston.com/br)
 
@@ -15,6 +17,8 @@ Os dados nos tipos mais comuns de bancos de dados em operação atualmente são 
 Processo de Negócio é o conjunto de atividades ou tarefas que são estruturadas e giram em torno da produção de um resultado de valor para o cliente, por meio da entrega de um serviço ou produto. Ele mostra O QUE deve ser realizado, COMO deve ser realizado e QUEM é o responsável.
 Portanto, o Processo de Negócio determina como o trabalho será feito na organização e traz a sequência lógica das atividades.(euax.com.br) 
 
+AULA2:
+
 6- Rede neural
 Uma rede neural é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano. É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro humano. A rede neural cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente. As redes neurais artificiais tentam solucionar problemas complicados, como resumir documentos ou reconhecer rostos com grande precisão.(aws.amazon.com)
 
@@ -29,3 +33,40 @@ A inteligência artificial ou IA como também é conhecida, é o campo da ciênc
 
 10- Algorítimo
 Um algoritmo é uma sequência de instruções bem definidas, normalmente usadas para resolver problemas de matemática específicos, executar tarefas, ou para realizar cálculos e equações. A origem da palavra “algoritmo” remete a Al Khowarizmi, famoso matemático árabe do século IX.(rockcontent.com)
+
+AULA3:
+
+ITEM A1:
+A Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas. Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center.
+Afinal, esse recurso tem como papel hospedar dados e disponibilizá-los de acordo com as necessidades do público-alvo.
+Para evitar o acesso indevido às informações, é preciso haver um mapeamento dos dados que estão sob a responsabilidade de uma instituição. Esse processo colabora para avaliar o que pode ser protegido internamente ou ficar por conta de um provedor de serviços de TI.
+Em muitos casos, uma empresa opta pela terceirização dos serviços de Tecnologia da Informação, porque facilita a adequação aos preceitos da LGPD e, ao mesmo tempo, permite a redução de custos.(thriveti.com.br)
+
+ITEM A2:
+Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso.
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+Os formatos proprietários são, na verdade, controlados e definidos por interesses privados.
+
+Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
+A título de exemplo, o formato MP3 é proprietário mas também aberto porque, se bém patenteado, suas especificações são públicas. Tornar públicas as especificações técnicas é uma maneira de difundir o formato e torná-lo um padrão internacional.
+Qual a diferença entre formato proprietário aberto e opensource? Enquanto o formato opensource pode ser lido ou editado por qualquer aplicativo, o formato proprietárioo aberto pode ser alterado apenas com o programa proprietário.(biblus.accasoftware.com)
+
+ITEM B1:
+HS - código de programa do Haskell
+.XLS - planilhas do Microsoft Excel
+.DBF - bancos de dados Dbase
+.MDB ou .ACCDB - bancos de dados Access
+.FB - bancos de dados Firebird
+.DOC - documento de texto do Microsoft Word
+.PDF - documento do Acrobat Adobe
+.TXT - arquivos de texto comum.(https://pt.wikipedia.org/)
+
+ITEM B2:
+o uso indevido de dados pessoais refere-se à coleta, armazenamento ou compartilhamento não autorizado de informações pessoais de indivíduos, muitas vezes sem o seu conhecimento ou consentimento. 
+Esse tipo de situação pode ocorrer de diversas formas. Desde a coleta de informações em sites e aplicativos sem informar claramente seus propósitos, até o vazamento de dados por parte de organizações que não adotam medidas de segurança adequadas.
+
+AULA 4:
+
+Sintaxe e Estrutura: Python tem uma sintaxe limpa e fácil, Java é mais formal e estruturada, enquanto JavaScript é flexível e baseada em protótipos.
+Uso: Python é versátil e amplamente utilizado em ciência de dados e automação; Java é comum em grandes sistemas empresariais e desenvolvimento Android; JavaScript é indispensável para desenvolvimento web e também é utilizado no backend com Node.js.
+Desempenho: Java tende a ser mais rápido que Python devido à sua compilação em bytecode e JVM. JavaScript, com motores modernos, também pode ser muito eficiente, especialmente em ambientes web.
