@@ -70,3 +70,103 @@ AULA 4:
 Sintaxe e Estrutura: Python tem uma sintaxe limpa e fácil, Java é mais formal e estruturada, enquanto JavaScript é flexível e baseada em protótipos.
 Uso: Python é versátil e amplamente utilizado em ciência de dados e automação; Java é comum em grandes sistemas empresariais e desenvolvimento Android; JavaScript é indispensável para desenvolvimento web e também é utilizado no backend com Node.js.
 Desempenho: Java tende a ser mais rápido que Python devido à sua compilação em bytecode e JVM. JavaScript, com motores modernos, também pode ser muito eficiente, especialmente em ambientes web.
+
+AULA 5:
+
+ITEM 1:
+# Imprimindo os números de 1 a 5
+for i in range(1, 6):
+  print(i)
+
+# Iterando sobre uma lista
+frutas = ["maçã", "banana", "laranja"]
+for fruta in frutas:
+  print(fruta)
+
+# Contando até 10
+contador = 1
+while contador <= 10:
+  print(contador)
+  contador += 1
+
+# Pedindo ao usuário para digitar um número positivo
+numero = 0
+while numero <= 0:
+  numero = int(input("Digite um número positivo: "))
+
+ITEM 2:
+Python
+idade = 18
+
+if idade >= 18:
+  print("Você é maior de idade.")
+
+nota = 7.5
+
+if nota >= 9:
+  print("Excelente!")
+elif nota >= 7:
+  print("Aprovado!")
+else:
+  print("Reprovado.")
+
+AULA 6:
+
+PARTE 1:
+def bubble_sort(lista):
+  """Implementa o algoritmo de ordenação Bubble Sort.
+
+  Args:
+    lista: A lista a ser ordenada.
+
+  Returns:
+    A lista ordenada.
+  """
+
+  n = len(lista)
+
+  # Percorre a lista externamente
+  for i in range(n):
+    # Percorre a lista internamente, comparando elementos adjacentes
+    for j in range(0, n-i-1):
+      # Troca os elementos se estiverem na ordem errada
+      if lista[j] > lista[j+1]:
+        lista[j], lista[j+1] = lista[j+1], lista[j]
+  return lista
+
+# Exemplo de uso:
+minha_lista = [64, 34, 25, 12, 22, 11, 90]
+lista_ordenada = bubble_sort(minha_lista)
+print(lista_ordenada)
+
+Explicação do código:
+
+Definição da função: A função bubble_sort recebe uma lista como entrada e retorna a lista ordenada.
+Loop externo: O primeiro loop for itera sobre a lista externamente. A cada iteração, o maior elemento "afunda" para sua posição correta.
+Loop interno: O segundo loop for compara elementos adjacentes e os troca se estiverem na ordem errada. A cada iteração do loop externo, um elemento a menos precisa ser verificado, por isso o limite superior do loop interno diminui.
+Troca de elementos: Se o elemento atual for maior que o próximo, eles são trocados de lugar
+
+PARTE 2:
+def imprimir_vogais(palavra):
+  """Imprime as vogais presentes em uma palavra ou frase.
+
+  Args:
+    palavra: A palavra ou frase de entrada.
+  """
+
+  vogais = "aeiouAEIOU"
+  for letra in palavra:
+    if letra in vogais:
+      print(letra)
+
+# Exemplo de uso:
+palavra = "Python é uma linguagem de programação incrível"
+imprimir_vogais(palavra)
+
+Explicação:
+
+Função imprimir_vogais: Define uma função que recebe uma string como entrada.
+String vogais: Cria uma string contendo todas as vogais, tanto maiúsculas quanto minúsculas.
+Loop for: Itera sobre cada caractere (letra) da palavra de entrada.
+Condicional if: Verifica se o caractere atual está presente na string de vogais.
+Imprimir: Se a condição for verdadeira, o caractere é impresso.
